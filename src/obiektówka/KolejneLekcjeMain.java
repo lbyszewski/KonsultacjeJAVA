@@ -2,6 +2,19 @@ package obiektówka;
 
 public class KolejneLekcjeMain {
     public static void main(String[] args) {
+
+        // Iteracja vs Rekurencja
+
+
+
+
+
+
+
+
+
+
+
         //Listy , Sety, HashSet, Dictonary,  TreeSet
 
         //Pętla foreach

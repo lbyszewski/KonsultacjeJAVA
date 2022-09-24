@@ -3,7 +3,7 @@ package obiektówka;
 public class Main {
     public static void main(String[] args) {
 
-        // obiekt klasy Person z argumentami pola lub z wypisanym osobno polem , należy pamiętać , że każdy obiekt posiadający konstruktor argumentowy
+        // obiekt klasy Person z argumentami pola lub z wypisanym osobno polem (konstruktor argumentowy, bezargumentowy nie jest niewidoczny i zostaje  nadpisywany )
         Person personOne = new Person("dgdfdf","sfsdsfffs",40);
         personOne.firstName =" ffdfdf";
         personOne.lastName = "fsffsf";
