@@ -6,17 +6,6 @@ public class KolejneLekcjeMain {
         // Iteracja vs Rekurencja
 
 
-
-
-
-
-
-
-
-
-
-        //Listy , Sety, HashSet, Dictonary,  TreeSet
-
         //Pętla foreach
 
 
@@ -46,6 +35,8 @@ public class KolejneLekcjeMain {
 
 
         //Programowanie Obiektowe Wyższego Poziomu II
+
+        //Listy , Mapy, Zbiory , Kolejki
 
 
 
