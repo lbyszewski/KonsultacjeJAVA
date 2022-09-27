@@ -31,7 +31,8 @@ public class KolejneLekcjeMain {
 
 
         // Zasady SOLID
-
+        // S - Singe Repsonsibility Principle
+        // O - Open for Extension /Close for Modyfication
 
 
         //Programowanie Obiektowe Wyższego Poziomu II
