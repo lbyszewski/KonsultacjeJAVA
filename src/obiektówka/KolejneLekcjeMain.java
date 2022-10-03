@@ -3,18 +3,9 @@ package obiektówka;
 public class KolejneLekcjeMain {
     public static void main(String[] args) {
 
-        // Iteracja vs Rekurencja
-
-
-        //Pętla foreach
-
-
-
         //Agregacja
 
 
-
-        // Interface
 
 
 
@@ -31,8 +22,11 @@ public class KolejneLekcjeMain {
 
 
         // Zasady SOLID
-        // S - Singe Repsonsibility Principle
+        // S - Single Repsonsibility Principle
         // O - Open for Extension /Close for Modyfication
+        // L - Liskov substitution principle
+        // I - Interface segregation principle
+        // D - Dependency inversion principle
 
 
         //Programowanie Obiektowe Wyższego Poziomu II
